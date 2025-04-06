@@ -8,7 +8,8 @@ import FamilyMemberForm from './FamilyMemberForm';
 import FamilyMemberCard from './FamilyMemberCard';
 import ChocolateBarConfig from './ChocolateBarConfig';
 import ChocolateStats from './ChocolateStats';
-import { ChocolateIcon, PlusCircle, Settings } from 'lucide-react';
+import { ChocolateIcon } from '@/utils/chocolate-icon'; // Updated import path
+import { PlusCircle, Settings } from 'lucide-react';
 
 const ChocolateDashboard = () => {
   const { familyMembers } = useChocolate();
