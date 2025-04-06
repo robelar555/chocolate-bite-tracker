@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import { useChocolate } from '@/contexts/ChocolateContext';
 import { Button } from '@/components/ui/button';
-import { Dialog, DialogContent, DialogTrigger } from '@/components/ui/dialog';
+import { Dialog, DialogContent, DialogTrigger, DialogTitle, DialogDescription } from '@/components/ui/dialog';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import FamilyMemberForm from './FamilyMemberForm';
 import FamilyMemberCard from './FamilyMemberCard';
@@ -31,6 +31,10 @@ const ChocolateDashboard = () => {
               </Button>
             </DialogTrigger>
             <DialogContent>
+              <DialogTitle>Legg til familiemedlem</DialogTitle>
+              <DialogDescription>
+                Fyll ut skjemaet nedenfor for å legge til et nytt familiemedlem.
+              </DialogDescription>
               <FamilyMemberForm onComplete={() => setIsAddingMember(false)} />
             </DialogContent>
           </Dialog>
