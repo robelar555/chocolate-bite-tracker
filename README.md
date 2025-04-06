@@ -1,5 +1,5 @@
 
-# Webside for å koordinere og planlegge spising av sjokolade, i en famile[generert med lovable.dev]
+# Webside for å koordinere og planlegge spising av sjokolade, i en famile[generert med loveable.dev]
 
 
 ![image](https://github.com/user-attachments/assets/3f8c8761-b740-4bae-8cf9-a25795a2fde7)
