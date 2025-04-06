@@ -1,4 +1,13 @@
-# Welcome to your Lovable project
+
+# Webside for å koordinere og planlegge spising av sjokolade, i en famile
+
+
+![image](https://github.com/user-attachments/assets/3f8c8761-b740-4bae-8cf9-a25795a2fde7)
+
+![image](https://github.com/user-attachments/assets/6a70fb6a-71a7-45bd-8cb5-7e65bd0a27a4)
+
+![image](https://github.com/user-attachments/assets/c6c0a2a5-2488-4679-9701-99978b3ee389)
+
 
 ## Project info
 
